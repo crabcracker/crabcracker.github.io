@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://github.com/crabcracker"
+base_url = "https://crabcracker.github.io/"
 title = "拆蟹员做饭笔记"
 # description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
 
