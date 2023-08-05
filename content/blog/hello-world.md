@@ -1,6 +1,6 @@
 +++
 title = "Hello World"
-description = "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description = "/"
 date = 2023-08-05T00:00:00+00:00
 updated = 2023-08-05T00:00:00+00:00
 draft = false
